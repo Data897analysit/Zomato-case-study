@@ -2,9 +2,11 @@
 Visualization Tool :- Looker Studio
 Zomato Dashboard Link :- https://lookerstudio.google.com/s/om6oizkO7w0
 
-Introducion: - Zomato is facing a decline in customer engagement, with increasing order cancellations and delivery delays. Key 
-questions include
+Introducion: -
+Zomato is facing a decline in customer engagement, with increasing order cancellations and delivery delays. 
+
 Background
+
 Zomato, India’s leading food delivery platform, you are tasked with addressing challenges in customer satisfaction, 
 fluctuating delivery times, and inconsistent sales across regions. Data shows a drop in repeat customers and high 
 cancellations. Your mission is to analyze sales, ratings, and delivery data to uncover actionable insights that enhance 
